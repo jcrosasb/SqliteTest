@@ -1,0 +1,45 @@
+id_agn,agn_name,last_name,agn_email,id_team,id_skill,agn_mod_datetime,agn_last_login,agn_status
+12600,Billy,Martin|Luther,bmartin@nice.team.org,11201,20075,7/20/2017 09:07,2/23/2022 23:08,Inactive
+12610,Derek,Jeter,djeter@nice.team.org,11202,20076,7/27/2018 07:23,2/25/2022 22:48,Active
+12620,Babe,Ruth,bruth@nice.team.org,11203,20077,3/2/2019 05:25,2/25/2022 12:49,Inactive
+12630,Lou,Gehrig,lgehrig@nice.team.org,11204,20080,10/8/2017 22:54,2/25/2022 08:18,Inactive
+12640,Joe,DiMaggio,jdimaggio@nice.team.org,11205,20081,6/7/2021 19:48,2/22/2022 19:59,Active
+12650,Joe,Torre,jtorre@nice.team.org,11201,20082,7/30/2016 14:46,2/26/2022 00:54,Active
+12660,Mickey,Mantle,mmantle@nice.team.org,11202,20090,1/21/2021 20:52,2/24/2022 20:12,Active
+12670,Yogi,Berra,yberra@nice.team.org,11203,20095,6/7/2017 12:55,2/23/2022 00:16,Inactive
+12680,Bill ,Dickey,bdickey@nice.team.org,11204,20100,3/18/2016 22:22,2/21/2022 11:33,Pause
+12690,Roger,Maris,rmaris@nice.team.org,11205,20075,7/22/2016 22:55,2/21/2022 09:32,Pause
+12700,Phil,Rizzuto,prizzuto@nice.team.org,11201,20076,9/25/2019 08:22,2/25/2022 01:37,Active
+12710,Thurman,Munson,tmunson@nice.team.org,11202,20077,7/18/2019 06:40,2/22/2022 05:19,Active
+12720,Whitey,Ford,wford@nice.team.org,11203,20080,5/13/2019 05:24,2/22/2022 02:34,Inactive
+12730,Jorge,Posada,jposada@nice.team.org,11204,20081,1/22/2021 05:00,2/21/2022 17:57,Active
+12740,Don,Mattingly,dmattingly@nice.team.org,11205,20082,10/27/2021 22:01,2/22/2022 06:07,Active
+12750,Elston,Howard,ehoward@nice.team.org,11201,20090,6/7/2018 09:48,2/24/2022 21:55,Active
+12760,Casey,Stengel,cstengel@nice.team.org,11202,20095,5/5/2021 02:28,2/23/2022 15:51,Active
+12770,Jackie ,Robinson,jrobinson@nice.team.org,11203,20100,7/19/2016 08:00,2/24/2022 06:31,Active
+12780,Mariano,Rivera,mrivera@nice.team.org,11204,20075,1/26/2020 17:59,2/21/2022 18:04,Active
+12790,Reggie,Jackson,rjackson@nice.team.org,11205,20076,8/2/2021 05:31,2/25/2022 08:06,Pause
+12800,Andy,Petitte,apetitte@nice.team.org,11201,20077,1/26/2020 09:20,2/22/2022 04:16,Active
+12810,Ron,Guidry,rguidry@nice.team.org,11202,20080,4/13/2017 21:08,2/24/2022 01:41,Active
+12820,Bernie,Williams,bwilliams@nice.team.org,11203,20081,7/2/2021 07:26,2/23/2022 21:16,Active
+12830,Aaron,Judge,ajudge@nice.team.org,11204,20082,11/7/2016 20:27,2/26/2022 03:55,Active
+13000,Raul,Gonzales,rgonzales@nice.international.org,11201,20090,5/9/2018 23:33,2/26/2022 09:20,Active
+13010,Fabio,Cannavaro,fcannavaro@nice.international.org,11202,20095,2/14/2020 15:42,2/24/2022 18:47,Inactive
+13020,Roberto,Carlos,rcarlos@nice.international.org,11203,20100,3/30/2016 08:02,2/26/2022 14:12,Pause
+13030,Ronaldo,de Asis,rasis@nice.international.org,11204,20075,9/13/2020 09:38,2/22/2022 13:06,Active
+13040,Gabriel,Batistuta,gbatistuta@nice.international.org,11205,20076,12/18/2019 21:08,2/25/2022 14:04,Inactive
+13050,Didier,Deshamps,ddeshamps@nice.international.org,11201,20077,3/19/2016 16:47,2/25/2022 19:43,Active
+13060,Arrigo,Zachi,azachi@nice.international.org,11202,20080,10/20/2018 11:03,2/24/2022 23:47,Pause
+13070,Javier,Zanneti,jzanneti@nice.international.org,11203,20081,7/29/2020 18:18,2/22/2022 03:52,Pause
+13080,Carlos ,Bilardo,cbilardo@nice.international.org,11204,20082,9/10/2021 22:41,2/23/2022 03:27,Inactive
+13090,Roberto,Baggio,rbaggio@nice.international.org,11205,20090,6/14/2017 17:00,2/23/2022 07:18,Pause
+13100,Enzo,Francescoli,efrancescoli@nice.international.org,11201,20095,6/20/2021 00:27,2/23/2022 11:44,Active
+13110,Hristo,Stoichov,hstoichov@nice.international.org,11202,20100,5/22/2017 16:01,2/24/2022 16:58,Pause
+13120,Josep,Guardiola,jguardiola@nice.international.org,11203,20075,2/28/2019 07:29,2/25/2022 04:50,Pause
+13130,Paolo,Rossi,prossi@nice.international.org,11204,20076,7/6/2021 21:23,2/22/2022 10:22,Active
+13140,Luis,Figo,lfigo@nice.international.org,11205,20077,10/14/2019 08:29,2/21/2022 13:13,Active
+13150,Ruud,Guillit,rguillit@nice.international.org,11201,20080,10/4/2021 04:05,2/26/2022 20:43,Active
+13160,Romario,de Souza,rsouza@nice.international.org,11202,20081,1/14/2020 18:57,2/23/2022 08:04,Inactive
+13170,Alex,Ferguson,aferguson@nice.international.org,11203,20082,7/28/2016 19:33,2/23/2022 13:41,Active
+13180,Just ,Fontaine,jfontaine@nice.international.org,11204,20090,10/20/2017 14:32,2/24/2022 11:43,Active
+13190,Jules,Rimet,jrimet@nice.international.org,11205,20095,2/12/2021 19:07,2/25/2022 11:14,Active
